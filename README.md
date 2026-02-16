@@ -30,7 +30,7 @@ This project is a custom Laravel 11 package that provides a **Contact Form** fea
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Manojk-1989/contact-form.git
    cd contact-form
 
 2. Install dependencies
