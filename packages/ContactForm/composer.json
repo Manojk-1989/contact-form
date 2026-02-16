@@ -1,0 +1,17 @@
+{
+    "name": "contactform/package",
+    "description": "Contact Form Package",
+    "autoload": {
+      "psr-4": {
+        "ContactForm\\": "src/"
+      }
+    },
+    "extra": {
+      "laravel": {
+        "providers": [
+          "ContactForm\\ContactFormServiceProvider"
+        ]
+      }
+    }
+  }
+  
